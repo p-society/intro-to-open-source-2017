@@ -41,7 +41,7 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/intro-to-open-source-2017.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
@@ -50,7 +50,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd intro-to-open-source-2017
 ```
 Now create a branch using the `git checkout` command:
 ```
@@ -100,7 +100,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com).
+You could join our slack team in case you need any help or have any questions. [Join slack team](http://iiit-bhcoding.herokuapp.com/).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
@@ -115,8 +115,6 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## Self-Promotion
 
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
-[GitHub](https://github.com/roshanjossey).
+If you liked this project, star it on [GitHub](https://github.com/p-society/intro-to-open-source-2017).
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) by [Palash Nigam](http://github.com/palash25/)
 
