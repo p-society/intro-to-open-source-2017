@@ -6,8 +6,9 @@
 # Introduction to Open Source
 ### Brought to you by IIIT-Bh Program Society
 ![image](https://raw.githubusercontent.com/p-society/intro-to-open-source-2017/master/assets/img.jpeg)
+
 This project is inspired from [Roshan Jossey's](https://github.com/Roshanjossey/) [first-contributions project](https://github.com/Roshanjossey/first-contributions)
----------------------------------
+
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff without messing up anything? This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember: the more relaxed you are, the better you learn. If you are looking to make your first contribution, just follow the simple steps below. We promise you, it will be fun.
