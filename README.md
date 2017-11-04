@@ -4,7 +4,7 @@
 
 
 # Introduction to Open Source
-### Brought to you by IIIT-Bh Program Society
+### Brought to you by IIIT-Bh Programming Society
 ![image](https://raw.githubusercontent.com/p-society/intro-to-open-source-2017/master/assets/img.jpeg)
 
 This project is inspired from [Roshan Jossey's](https://github.com/Roshanjossey/) [first-contributions project](https://github.com/Roshanjossey/first-contributions)
